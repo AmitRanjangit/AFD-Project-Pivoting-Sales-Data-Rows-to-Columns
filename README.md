@@ -1,4 +1,3 @@
-# AFD-Project-Pivoting-Sales-Data-Rows-to-Columns
 # Azure Data Factory Project: Pivoting Sales Data (Rows to Columns)
 
 This project demonstrates how to use Azure Data Factory (ADF) to transform Kaggle sales data by pivoting multiple product rows per transaction into a single wide row using Mapping Data Flows.
