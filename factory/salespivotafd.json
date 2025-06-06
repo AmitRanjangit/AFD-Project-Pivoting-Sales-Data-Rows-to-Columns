@@ -1,0 +1,9 @@
+{
+	"name": "salespivotafd",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9664dc6d-07ec-4d97-a76d-6c2b026a0a0c",
+		"tenantId": "0be63ed1-9ff4-405c-8e4f-208974129ed4"
+	}
+}
